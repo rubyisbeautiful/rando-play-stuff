@@ -1,0 +1,12 @@
+# build artifacts
+*.zip
+*.tgz
+
+# terraform
+.terraform
+terraform.tfstate*
+*.tfstate
+terraform.tfstate.d
+
+# specific
+junk_drawer/
